@@ -10,7 +10,7 @@ An ultra light way to display facebook share button, google buzz button, twitter
 
 == Description ==
 
-An ultra light way to display facebook share button, google buzz button, twitter tweet this button, msn live share button, windows live share button.
+An ultra light way to display facebook share button, google buzz button, twitter tweet this button, msn live share button, windows live share button only on posts
 
 
 To change your settings please:
