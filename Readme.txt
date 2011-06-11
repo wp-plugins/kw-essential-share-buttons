@@ -17,7 +17,7 @@ To change your settings please:
 
 * No settings to change, this plugin add automaticaly multiple share buttons
 
-<b>Donate link:</b> http://style-cataclysm.com/kw-essential-share-buttons
+<b>Donate to this plugin:</b> http://style-cataclysm.com/kw-essential-share-buttons
 
 == Installation ==
 
