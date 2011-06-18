@@ -4,7 +4,7 @@ Donate link: http://style-cataclysm.com/kw-essential-share-buttons
 Tags: share-button, primordial-share-button, ultra-light-plugin-share, tweeter-share, tweeter-tweet-this, facebook-share, facebook-like, google-buzz, google-share, msn-windows-live-share, share-button-auto-integration
 Requires at least: 3.0
 Tested up to: 3.1.3
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 An ultra light way to display facebook share button, google buzz button, twitter tweet this button, msn live share button, windows live share button.
 
@@ -39,6 +39,10 @@ View forum support on Wordpress for more information
 
 
 == Changelog ==
+
+= 1.0.1 =
+
+* Fixed image for Windows live share
 
 = 1.0 = 
 
