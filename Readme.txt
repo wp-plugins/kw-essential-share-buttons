@@ -1,6 +1,6 @@
 === Kw Essential share buttons ===
 Contributors: Laurent (KwarK) Bertrand
-Donate link: http://style-cataclysm.com/kw-essential-share-buttons
+Donate link: http://kwark.allwebtuts.net/
 Tags: share-button, primordial-share-button, ultra-light-plugin-share, tweeter-share, tweeter-tweet-this, facebook-share, facebook-like, google-buzz, google-share, msn-windows-live-share, share-button-auto-integration
 Requires at least: 3.0
 Tested up to: 3.1.3
