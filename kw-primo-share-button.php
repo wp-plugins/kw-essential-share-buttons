@@ -15,7 +15,7 @@
  Version: 1.0
  Tags: share-button, primordial-share-button, ultra-light-plugin-share, tweeter-share, tweeter-tweet-this, facebook-share, facebook-like, google-buzz, google-share, msn-windows-live-share, share-button-auto-integration
  
- Author URI: Laurent Bertrand | KwarK on http://www.style-cataclysm.com/
+ Author URI: http://kwark.allwebtuts.net
  */
 /**
  * @copyright 2011  Laurent Bertrand  ( email : kwark1(at)style-cataclysm.com )
