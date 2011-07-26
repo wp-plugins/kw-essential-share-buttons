@@ -9,13 +9,13 @@
  
 /*
  Plugin Name: Kw Essential share buttons
- Plugin URI: http://style-cataclysm.com/kw-essential-share-buttons
+ Plugin URI: http://kwark.allwebtuts.net
  Description: An ultra light way to display facebook share button, google buzz button, twitter tweet this button, msn live share button, windows live share button. No configuration needed.
  Author: Laurent (KwarK) Bertrand
  Version: 1.0.1
  Tags: share-button, primordial-share-button, ultra-light-plugin-share, tweeter-share, tweeter-tweet-this, facebook-share, facebook-like, google-buzz, google-share, msn-live-share, windows-live-share, share-button-auto-integration
  
- Author URI: Laurent Bertrand | KwarK on http://www.style-cataclysm.com/
+Author URI: http://kwark.allwebtuts.net
  */
 /**
  * @copyright 2011  Laurent Bertrand  ( email : kwark1(at)style-cataclysm.com )
