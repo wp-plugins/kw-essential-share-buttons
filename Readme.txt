@@ -6,16 +6,15 @@ Requires at least: 3.0
 Tested up to: 3.1.3
 Stable tag: 1.0.1
 
-An ultra light way to display facebook share button, google buzz button, twitter tweet this button, msn live share button, windows live share button.
+A simple plugin to display facebook share button, google buzz button, twitter tweet this button, msn live share button, windows live share button.
 
 == Description ==
 
-An ultra light way to display facebook share button, google buzz button, twitter tweet this button, msn live share button, windows live share button only on posts
+A simple plugin to display facebook share button, google buzz button, twitter tweet this button, msn live share button, windows live share button only on posts
 
 
-To change your settings please:
+* No settings to change, this plugin add automaticaly multiple share buttons and have no page options
 
-* No settings to change, this plugin add automaticaly multiple share buttons
 
 == Installation ==
 
