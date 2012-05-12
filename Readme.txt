@@ -10,7 +10,7 @@ A simple plugin to display facebook like button, google +1 button, twitter butto
 
 == Description ==
 
-* It is not filled options. Zero option, only essential and only 3ko.
+* It is not filled options. Zero option, only essential buttons and only 3ko.
 * A simple plugin to display facebook like button, google +1 button, twitter button, msn live share button only on posts, without administration options.
 * No settings to change, this plugin added automatically multiple sharing buttons in your posts.
 
