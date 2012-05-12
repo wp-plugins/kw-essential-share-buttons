@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.kw-share-this{text-align:right; height:40px; margin-top:0 auto !important;}
+.kw-share-this a.twitter-share-button{float:right;text-align:right;cursor:pointer;}
+.kw-share-this div.facebook-share-button{float:right; width:85px; margin-right:10px;}
+
+.kw-share-this div.gplusone {float:right; width:80px;}
+.kw-share-this a.msn-share-button {float:right; margin-right:20px; background: url('../css/blt8.png') no-repeat scroll 2px 3px rgb(231, 248, 255); border-radius: 3px 3px 3px 3px; -webkit-border-radius: 3px 3px 3px 3px; -khtml-border-radius: 3px 3px 3px 3px; -moz-border-radius: 3px 3px 3px 3px;border-color: rgb(178, 232, 254) rgb(156, 209, 232) rgb(156, 209, 232) rgb(178, 232, 254); border-style: solid; border-width: 1px; text-decoration: none; font: 11px verdana; padding: 3px 3px 4px 20px; height:12px !important; margin-top:0px; }
+.kw-share-this a.msn-share-button:hover {opacity:.9;}
