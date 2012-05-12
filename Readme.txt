@@ -1,19 +1,17 @@
 === Kw Essential share buttons ===
 Contributors: Laurent (KwarK) Bertrand
 Donate link: http://kwark.allwebtuts.net/
-Tags: share, button, tweeter-share, facebook-share, google-plus, msn-windows-live-share, wordpress, plugin
+Tags: button, sharing, tweeter-tweet, facebook-like, g-plus-one, msn-windows-live-sharing, wordpress, plugin
 Requires at least: 3.0
-Tested up to: 3.1.3
-Stable tag: 1.0.1
+Tested up to: 3.3.2
+Stable tag: 1.1
 
-A simple plugin to display facebook share button, google buzz button, twitter tweet this button, msn live share button, windows live share button.
+A simple plugin to display facebook like button, google +1 button, twitter button, msn live share button.
 
 == Description ==
 
-A simple plugin to display facebook share button, google buzz button, twitter tweet this button, msn live share button, windows live share button only on posts
-
-
-* No settings to change, this plugin add automaticaly multiple share buttons and have no page options
+* A simple plugin to display facebook like button, google +1 button, twitter button, msn live share button only on posts, without administration options.
+* No settings to change, this plugin added automatically multiple sharing buttons in your posts.
 
 
 == Installation ==
