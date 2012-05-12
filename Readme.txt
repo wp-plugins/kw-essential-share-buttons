@@ -6,7 +6,7 @@ Requires at least: 3.0
 Tested up to: 3.3.2
 Stable tag: 1.1
 
-A simple plugin to display facebook like button, google +1 button, twitter button, msn live share button.
+A simple plugin to display facebook like button, google +1 button, twitter button, messenger live button.
 
 == Description ==
 
