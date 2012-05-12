@@ -36,6 +36,10 @@ View forum support on Wordpress for more information
 
 == Changelog ==
 
+= 1.1 =
+
+* Code review.
+
 = 1.0.1 =
 
 * Fixed image for Windows live share
