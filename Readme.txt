@@ -21,7 +21,7 @@ A simple plugin to display facebook like button, google +1 button, twitter butto
 
 == Screenshots ==
 
-1. No screen
+1. No screenshots
 
 == Frequently Asked Questions ==
 
