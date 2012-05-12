@@ -48,7 +48,7 @@ function kw_share_buttons($content)
 				<g:plusone size="medium"></g:plusone>
 			</div>
 			
-			<a class="msn-share-button" href="#" onclick="javascript:window.open(\'http://profile.live.com/badge?url=' . get_permalink($post->post_parent) .'/\', \'Windows Live\', \'width=550, height=450, top=230, right=450, left=450\');" title="Messenger live share">Partager</a>
+			<a class="msn-share-button" href="#" onclick="javascript:window.open(\'http://profile.live.com/badge?url=' . get_permalink($post->post_parent) .'/\', \'Windows Live\', \'width=550, height=450, top=230, right=450, left=450\');" title="Messenger live share">Messenger</a>
 			
 			<div class="facebook-share-button"><iframe src="http://www.facebook.com/plugins/like.php?href=' . get_permalink($post->post_parent)
     .'&layout=button_count&show_faces=false&width=85&action=like&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:21px;" allowTransparency="true"></iframe>
