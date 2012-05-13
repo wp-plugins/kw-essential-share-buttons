@@ -2,7 +2,7 @@
 /* CSS Document */
 
 .kw-share-this{text-align:right; height:40px; margin-top:0 auto !important;}
-.kw-share-this a.twitter-share-button{float:right;text-align:right;cursor:pointer;}
+.twitter-share-button{float:right; text-align:right; cursor:pointer;}
 .kw-share-this div.facebook-share-button{float:right; width:85px; margin-right:10px;}
 
 .kw-share-this div.gplusone {float:right; width:80px;}
