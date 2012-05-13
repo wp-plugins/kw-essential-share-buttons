@@ -57,6 +57,7 @@ function kw_share_buttons($content)
 		
 		return $content;
 	}
+	else{return $content;}
 }
 /** Main function to posts **/
 add_filter('the_content', 'kw_share_buttons');
