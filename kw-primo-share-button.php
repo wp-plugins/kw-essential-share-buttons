@@ -53,11 +53,9 @@ function kw_share_buttons($content)
 			<div class="facebook-share-button"><iframe src="http://www.facebook.com/plugins/like.php?href=' . get_permalink($post->post_parent)
     .'&layout=button_count&show_faces=false&width=85&action=like&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:85px; height:21px;" allowTransparency="true"></iframe>
             </div>
-      </div>';		
-		
-		return $content;
+      </div>';
 	}
-	else{return $content;}
+	return $content;
 }
 /** Main function to posts **/
 add_filter('the_content', 'kw_share_buttons');
