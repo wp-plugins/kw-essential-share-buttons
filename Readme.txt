@@ -1,5 +1,5 @@
 === Kw Essential share buttons ===
-Contributors: Laurent (KwarK) Bertrand
+Contributors: kwark
 Donate link: http://kwark.allwebtuts.net/
 Tags: button, sharing, tweeter-tweet, facebook-like, g-plus-one, msn-windows-live-sharing, wordpress, plugin
 Requires at least: 3.0
