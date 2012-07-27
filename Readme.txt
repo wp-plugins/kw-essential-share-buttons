@@ -29,8 +29,13 @@ An ultra light way to display mini buttons for sharing post directly on social m
 
 == Frequently Asked Questions ==
 
-View forum support on Wordpress for more information
+= How to change the disposition of the left div with the share buttons
 
+* To change the position, you may open the file kw-primo-share-button.php and change the width @ ~line 46 (The width must correspond to your current theme).
+
+= How to change the color =
+
+* To change the white color, it's in the file /css/single.css
 
 == Upgrade Notice ==
 

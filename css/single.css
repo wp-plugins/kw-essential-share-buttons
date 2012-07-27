@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* CSS Document */
+.kw-share-this{ width: 25px; height: auto; margin: 365px auto auto -27px; border:1px solid white; border-radius: 10px 0 0 10px; -moz-border-radius: 10px 0 0 10px; -o-border-radius: 10px 0 0 10px; -webkit-border-radius: 10px 0 0 10px; background-color:#FBFBFB;}
+.kw-share-this a{ display:block;}
+img.kw-bubble {padding: 3px;}

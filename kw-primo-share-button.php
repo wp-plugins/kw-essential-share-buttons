@@ -32,6 +32,7 @@ global $plugin_url;
 $plugin_url = WP_PLUGIN_URL . '/kw-essential-share-buttons/';
 
 wp_register_style( 'kw_button_share', '' .$plugin_url. 'css/general.css');
+wp_register_style( 'kw_button_share_single', '' .$plugin_url. 'css/single.css');
 
 function kw_share_buttons($content)
 {
@@ -39,7 +40,15 @@ function kw_share_buttons($content)
 	{
 		global $plugin_url, $post;
 		
-		wp_enqueue_style( 'kw_button_share');
+		if(is_single())
+		{ 
+			wp_enqueue_style( 'kw_button_share_single');
+			echo '<div style="margin:0 auto; height:0px; position:fixed; top:1px; left:1px; right:1px; width:985px;">';
+		}
+		if(is_home())
+		{ 
+			wp_enqueue_style( 'kw_button_share');
+		}
 		?>
         <div class="kw-share-this">
                 
@@ -68,6 +77,10 @@ function kw_share_buttons($content)
             <img class="kw-bubble" src="http://passets-ec.pinterest.com/images/about/buttons/small-p-button.png" alt="Pinterest" title="Pin" /></a>    
         </div>
         <?php
+        if(is_single())
+		{ 
+			echo '</div>';
+		}
 	}
 	return $content;
 }
