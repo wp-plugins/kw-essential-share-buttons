@@ -2,14 +2,16 @@
 
 Contributors: KwarK
 Donate link: http://kwark.allwebtuts.net/
-Tags: button, sharing, tweeter-tweet, facebook-like, g-plus-one, msn-windows-live-sharing, wordpress, plugin
+Tags: essential, sharing, social, media, share, button, buttons, pinterest, facebook, twitter, gplus, linkedin, ultra, light, plugin, wordpress
 Requires at least: 3.0
-Tested up to: 3.3.2
-Stable tag: 1.1
+Tested up to: 3.4.1
+Stable tag: 1.2
 
-A simple plugin to display facebook like button, google +1 button, twitter button, messenger live button.
+mini buttons for sharing posts by users on social media. Buttons and popup for pinterest, linkedin, facebook, google +1, twitter, windows live
 
 == Description ==
+
+An ultra light way to display mini buttons for sharing post directly on social media. Buttons and popup for pinterest, linkedin, facebook, google +1, twitter, windows live. Buttons are visible on each post in home page loop and in if is single view. No configuration needed.
 
 * It is not filled options. Zero option, only essential buttons and only 3ko.
 * A simple plugin to display facebook like button, google +1 button, twitter button, msn live share button only on posts, without administration options.
@@ -36,6 +38,12 @@ View forum support on Wordpress for more information
 
 
 == Changelog ==
+
+= 1.2 =
+
+* Now displaying also for posts on home page
+* Code review with mini buttons
+* Added pinterest, linkedin
 
 = 1.1 =
 
