@@ -30,7 +30,7 @@ If you have some css problem view FAQ http://wordpress.org/extend/plugins/kw-ess
 
 == Frequently Asked Questions ==
 
-= How to change the disposition of the left div with the share buttons
+= How to change the disposition of the left div with the share buttons =
 
 * To change the position, you may open the file kw-primo-share-button.php and change the width @ ~line 46 (The width must correspond to your current theme).
 
