@@ -33,6 +33,7 @@ If you have some css problem view FAQ http://wordpress.org/extend/plugins/kw-ess
 = How to change the position of the left small div with the share buttons =
 
 * To change the position, you may open the file kw-primo-share-button.php and change the width @ ~line 46 (The width must correspond to your current theme).
+* After, you may open the file /css/single.css and change the margin values.
 
 = How to change the color =
 
