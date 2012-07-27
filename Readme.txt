@@ -13,7 +13,7 @@ mini buttons for sharing posts by users on social media. Buttons and popup for p
 
 An ultra light way to display mini buttons for sharing post directly on social media.
 
-* It is not filled options. Zero option, only essential buttons and only <s>3ko</s> now 6ko.
+* It is not filled options. Zero option, only essential buttons and only 3ko - now 6ko.
 * A simple plugin to display Buttons and popup for pinterest, linkedin, facebook, google +1, twitter, windows live, without administration options.
 * No settings to change, this plugin added automatically multiple sharing buttons in your posts.
 
