@@ -11,12 +11,13 @@ mini buttons for sharing posts by users on social media. Buttons and popup for p
 
 == Description ==
 
-An ultra light way to display mini buttons for sharing post directly on social media. Buttons and popup for pinterest, linkedin, facebook, google +1, twitter, windows live. Buttons are visible on each post in home page loop and in if is single view. No configuration needed.
+An ultra light way to display mini buttons for sharing post directly on social media.
 
-* It is not filled options. Zero option, only essential buttons and only 3ko.
-* A simple plugin to display facebook like button, google +1 button, twitter button, msn live share button only on posts, without administration options.
+* It is not filled options. Zero option, only essential buttons and only <s>3ko</s> now 6ko.
+* A simple plugin to display Buttons and popup for pinterest, linkedin, facebook, google +1, twitter, windows live, without administration options.
 * No settings to change, this plugin added automatically multiple sharing buttons in your posts.
 
+If you have some css problem view FAQ http://wordpress.org/extend/plugins/kw-essential-share-buttons/faq/
 
 == Installation ==
 
