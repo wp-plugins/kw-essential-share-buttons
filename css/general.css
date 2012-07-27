@@ -1,4 +1,4 @@
 @charset "utf-8";
 /* CSS Document */
-.kw-share-this{ clear:both; width:auto; display:block; text-align:right; height:25px; margin-top:0 auto !important;}
+.kw-share-this{ width: 152px; height: 25px; margin-top: 0 auto !important; float: right;}
 img.kw-bubble {padding: 3px;}
