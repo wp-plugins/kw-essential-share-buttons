@@ -44,19 +44,19 @@ function kw_share_buttons($content)
         <div class="kw-share-this">
                 
                 <a href="#" onclick="javascript:window.open('http://profile.live.com/badge?url=<?php urlencode(the_permalink()); ?>', 'Windows Live', 'width=550, height=450, top=230, right=450, left=450'); return false;" rel="nofollow">
-                <img src="<?php echo esc_url($plugin_url . 'images/blt8.png', array('http', 'https')); ?>" alt="messenger live share" title="Live" /></a>
+                <img class="kw-bubble" src="<?php echo esc_url($plugin_url . 'images/blt8.png', array('http', 'https')); ?>" alt="messenger live share" title="Live" /></a>
                 
                 <a href="#" onclick="javascript:window.open('https://plusone.google.com/_/+1/confirm?url=<?php urlencode(the_permalink()); ?>', 'Google plusone', 'width=550, height=450, top=230, right=450, left=450'); return false;" rel="nofollow">
-                <img src="<?php echo esc_url($plugin_url . 'images/google.png', array('http', 'https')); ?>" alt="Google plusone" title="Plus" /></a>
+                <img class="kw-bubble" src="<?php echo esc_url($plugin_url . 'images/google.png', array('http', 'https')); ?>" alt="Google plusone" title="Plus" /></a>
                 
                 <a href="#" onclick="javascript:window.open('http://twitter.com/share?url=<?php urlencode(the_permalink()); ?>&text=<?php urlencode(the_title()); ?>', 'Twitter', 'width=550, height=450, top=230, right=450, left=450'); return false;" rel="nofollow">
-                <img src="<?php echo esc_url($plugin_url . 'images/twitter.png', array('http', 'https')); ?>" alt="Twitter" title="Tweet" /></a>
+                <img class="kw-bubble" src="<?php echo esc_url($plugin_url . 'images/twitter.png', array('http', 'https')); ?>" alt="Twitter" title="Tweet" /></a>
                 
                  <a href="#" onclick="javascript:window.open('https://www.facebook.com/login.php?skip_api_login=1&display=popup&nux=1&referer=<?php echo urlencode(get_site_url()); ?>&social_plugin=like&external_page_url=<?php urlencode(the_permalink()); ?>', 'Facebook', 'width=550, height=450, top=230, right=450, left=450'); return false;" rel="nofollow">
-                <img src="<?php echo esc_url($plugin_url . 'images/facebook.png', array('http', 'https')); ?>" alt="Facebook" title="Like" /></a>
+                <img class="kw-bubble" src="<?php echo esc_url($plugin_url . 'images/facebook.png', array('http', 'https')); ?>" alt="Facebook" title="Like" /></a>
                 
                 <a href="#" onclick="javascript:window.open('http://www.linkedin.com/shareArticle?mini=true&url=<?php urlencode(the_permalink()); ?>&title=<?php urlencode(the_title()); ?>&source=<?php echo urlencode(get_site_url()); ?>', 'LinkedIn', 'width=550, height=450, top=230, right=450, left=450'); return false;" rel="nofollow">
-                <img src="<?php echo esc_url($plugin_url . 'images/linkedin.png', array('http', 'https')); ?>" alt="LinkedIn" title="In" /></a>
+                <img class="kw-bubble" src="<?php echo esc_url($plugin_url . 'images/linkedin.png', array('http', 'https')); ?>" alt="LinkedIn" title="In" /></a>
                 
 				<?php if (has_post_thumbnail())
 				{ 
@@ -65,7 +65,7 @@ function kw_share_buttons($content)
 				?>
                 
                 <a href="#" onclick="javascript:window.open('http://pinterest.com/pin/create/button/?url=<?php urlencode(the_permalink()); ?>&media=<?php echo urlencode(wp_get_attachment_url($kw_thumb_id)); ?>&description=<?php urlencode(the_title()); ?>', 'Pinterest', 'width=560, height=450, top=230, right=450, left=450'); return false;" rel="nofollow">
-            <img src="http://passets-ec.pinterest.com/images/about/buttons/small-p-button.png" alt="Pinterest" title="Pin" /></a>    
+            <img class="kw-bubble" src="http://passets-ec.pinterest.com/images/about/buttons/small-p-button.png" alt="Pinterest" title="Pin" /></a>    
         </div>
         <?php
 	}
